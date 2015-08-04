@@ -13,7 +13,7 @@ class NachoServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-
+		echo "Hello World!";
     }
 
     /**
