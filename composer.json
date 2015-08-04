@@ -1,0 +1,19 @@
+{
+    "name": "hakula/nacho",
+    "description": "Nacho, nacho man. I want to be a nacho man",
+    "license": "MIT",
+    "keywords": ["nacho"],
+    "authors": [
+        {
+            "name": "Joseph Niu",
+            "email": "jsph.niu@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "hakula\\nacho\\": "src"
+        }
+    }
+}
